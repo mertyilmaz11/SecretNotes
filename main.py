@@ -3,8 +3,6 @@ from tkinter import messagebox
 from PIL import ImageTk,Image
 import base64
 
-FONT = ["Arial",10,"normal"]
-
 window = Tk()
 window.title("Secret Notes")
 window.config(padx=10,pady=10)
